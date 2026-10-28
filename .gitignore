@@ -3,3 +3,13 @@
 output/
 datasets/
 superpixels/
+
+# Team project generated files
+weights/
+datasets/
+output/
+superpixels/
+experiment_archive/
+*.log
+*.pt
+*.pth
